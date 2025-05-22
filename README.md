@@ -126,5 +126,5 @@ After processing, RDF triples representing **drugs, foods, effects, impacts**, a
 
 ##  Acknowledgements
 
-This work was developed as part of the [P4-LUCAT]([https://github.com/SDM-TIB/SDM-RDFizer](https://www.tib.eu/de/forschung-entwicklung/projektuebersicht/projektsteckbrief/p4-lucat)) project, within a research workflow for semantic enrichment of biomedical data.
+This work was developed as part of the [P4-LUCAT](https://www.tib.eu/de/forschung-entwicklung/projektuebersicht/projektsteckbrief/p4-lucat) project, within a research workflow for semantic enrichment of biomedical data.
 
