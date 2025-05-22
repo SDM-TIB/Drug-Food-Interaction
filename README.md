@@ -27,7 +27,7 @@ This project extracts and semantically models **drug-food interactions** using d
 
 ---
 
-## 🧾 Repository Structure
+##  Repository Structure
 
 ```plaintext
 Drug-Food-Interaction-main/
@@ -49,7 +49,7 @@ Drug-Food-Interaction-main/
 ├── error.log                           # Processing error logs
 └── .idea/                              # PyCharm IDE metadata (can be ignored)
 ```
-## 🛠️ Requirements
+##  Requirements
 
 - Python 3.7+
 - `fuzzywuzzy`
