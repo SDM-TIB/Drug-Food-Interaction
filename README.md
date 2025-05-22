@@ -39,7 +39,7 @@ Drug-Food-Interaction-main/
 ├── compare similarity.py              # Matches terms using fuzzy similarity
 ├── recommendations.py                 # Extracts recommendation-based interactions
 │
-├── drugBank_drug_food_interactions.csv  # Raw interaction data from DrugBank
+├── drugBank_drug_food_interactions.csv  # Raw interaction data from DrugBank (downloaded on Feb 28, 2024)
 │
 ├── Mapping/                            # RDF mapping files and outputs
 │   ├── *.ttl                           # Mapping templates (e.g., DrugMapping.ttl)
@@ -126,5 +126,5 @@ After processing, RDF triples representing **drugs, foods, effects, impacts**, a
 
 ##  Acknowledgements
 
-This work was developed as part of the **P4-LUCAT** project, within a research workflow for semantic enrichment of biomedical data.
+This work was developed as part of the [P4-LUCAT]([https://github.com/SDM-TIB/SDM-RDFizer](https://www.tib.eu/de/forschung-entwicklung/projektuebersicht/projektsteckbrief/p4-lucat)) project, within a research workflow for semantic enrichment of biomedical data.
 
