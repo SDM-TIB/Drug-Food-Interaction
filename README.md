@@ -118,7 +118,7 @@ After processing, RDF triples representing **drugs, foods, effects, impacts**, a
 ##  References
 
 - **DrugBank**: [https://go.drugbank.com/](https://go.drugbank.com/)
-- **BioFalcon**: 
+- **BioFalcon**: [https://labs.tib.eu/sdm/biofalcon](https://labs.tib.eu/sdm/biofalcon/api?mode=short)
 - **UMLS Metathesaurus**: [https://www.nlm.nih.gov/research/umls/index.html](https://www.nlm.nih.gov/research/umls/index.html)
 - **SDM-RDFizer**: [https://github.com/SDM-TIB/SDM-RDFizer](https://github.com/SDM-TIB/SDM-RDFizer)
 
